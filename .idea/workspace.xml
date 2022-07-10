@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44918f12-ef52-4697-8712-522b279f9829" name="Changes" comment="Initial rails files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-    </list>
+    <list default="true" id="44918f12-ef52-4697-8712-522b279f9829" name="Changes" comment="Initial rails files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657451124386</updated>
       <workItem from="1657451125741" duration="229000" />
-      <workItem from="1657451394681" duration="1327000" />
+      <workItem from="1657451394681" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="Initial rails files">
       <created>1657451199171</created>
