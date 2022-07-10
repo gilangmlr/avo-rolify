@@ -72,3 +72,5 @@ group :test do
 end
 
 gem 'devise', git: 'https://github.com/heartcombo/devise'
+
+gem "rolify"
