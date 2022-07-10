@@ -74,3 +74,4 @@ end
 gem 'devise', git: 'https://github.com/heartcombo/devise'
 
 gem "rolify"
+gem "avo"
